@@ -1,0 +1,22 @@
+review_id,source,text,rating,date
+gp-001,Google Play,"Love the new playlists, it works perfectly",5,2026-09-04
+gp-002,Google Play,"App crashes every time I open my downloads",1,2026-09-05
+gp-003,Google Play,"Login keeps failing and password reset does not work",1,2026-09-06
+gp-004,Google Play,"Playback is smooth and the recommendations are great",5,2026-09-08
+gp-005,Google Play,"The app is very slow to load after the update",2,2026-09-10
+gp-006,Google Play,"Too many ads interrupt music",2,2026-09-12
+gp-007,Google Play,"Please add a way to sort playlists by date",4,2026-09-14
+gp-008,Google Play,"Payment went through but my subscription is missing",1,2026-09-17
+gp-009,Google Play,"Customer support never responded to my request",1,2026-09-19
+gp-010,Google Play,"Easy to use and the sound quality is excellent",5,2026-09-21
+as-001,App Store,"Great experience, the interface looks clean",5,2026-09-05
+as-002,App Store,"Downloads freeze and the app crashes",1,2026-09-07
+as-003,App Store,"I cannot sign in to my account since yesterday",1,2026-09-09
+as-004,App Store,"Would like an option to hide podcasts",4,2026-09-13
+as-005,App Store,"Works well, but loading is a little slow",3,2026-09-16
+as-006,App Store,"Charged twice for the same subscription",1,2026-09-18
+as-007,App Store,"The new update is fantastic",5,2026-09-23
+as-008,App Store,"Confusing navigation and hard to find saved music",2,2026-09-25
+sv-001,Survey CSV,"Support helped me quickly and solved my issue",5,2026-09-26
+sv-002,Survey CSV,"Playback keeps freezing when I switch networks",2,2026-09-28
+sv-003,Survey CSV,"I love this app, it is simple and reliable",5,2026-10-01

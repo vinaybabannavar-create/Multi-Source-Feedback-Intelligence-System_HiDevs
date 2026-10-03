@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 venv/
+.venv/
 env/
+.pytest_cache/
+.streamlit/secrets.toml
 .DS_Store
 node_modules/
 .idea/
